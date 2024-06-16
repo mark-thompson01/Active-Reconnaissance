@@ -40,9 +40,39 @@ Perform an ARP scan to discover hosts on the local network:
 Use Fping to discover live hosts
 
 
-## Passive Reconnaissance with Wireshark
+### Passive Reconnaissance with Wireshark
 
 Use Wireshark to perform passive reconnaissance on the active network by capturing and analyzing network traffic. 
+
+
+## Port Scanning and Host Fingerprinting
+
+Perform a SYN scan and service version detection. 
+
+
+Perform a full port scan and service version detction
+
+
+Perform a SYN scan, service version detection, and UDP scan: 
+
+
+Perform a port scan for ports 1-10000 and service version detection: 
+
+
+## Nmap Service Version Detection
+
+After identifying open ports, perform service version detction on individual ports to gather more information. 
+
+## Fingerprinting with Nmap Scripts
+
+Use Nmap scripts to fingerprint services and gather detailed information. 
+
+
+## Web Server Enumeration on Port 80
+
+Enumerate the web server on port 80 to gather information about the web application and its components. 
+
+
 
 
 
