@@ -55,6 +55,8 @@ Use Wireshark to perform passive reconnaissance on the active network by capturi
 
 ### ARP Scan
 
+
+
 ### Fping
 
 ### Wireshark
@@ -105,7 +107,7 @@ Enumerate the web server running on port 80 to gather information about the web 
 ### Web Server Enumeration
 
 
-## Conclusion
+Conclusion
 
 This lab demonstrates various techniques for active reconnaissance, including host discovery, port scanning, service detection, and web server enumeration. These skills are essential for both red team and blue team activities in cybersecurity.
 
