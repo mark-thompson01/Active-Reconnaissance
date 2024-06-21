@@ -19,7 +19,7 @@ This lab outlines performing host discovery, port scanning, service version dete
 - [Web Server Enumeration on Port 80](#web-server-enumeration-on-port-80)
   - [Screenshots](#screenshots-web-server-enumeration)
 - [Conclusion](#conclusion)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -38,6 +38,8 @@ Perform an ARP scan to discover hosts on the local network:
 ### Fping
 
 Use Fping to discover live hosts
+
+![fping](images/fping.png)
 
 
 ### Passive Reconnaissance with Wireshark
