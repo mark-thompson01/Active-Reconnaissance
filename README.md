@@ -23,7 +23,7 @@ This lab outlines performing host discovery, port scanning, service version dete
 
 ## Introduction
 
-This document contains step-by-step guides for performing active reconnaissance using Nmap and other tools. It covers host discovery, port scanning, service version detection, and web server enumeration.
+This document contains step-by-step guides for performing active reconnaissance using Nmap and other tools. It covers host discovery, port scanning, service version detection, and web server enumeration. All activity was performed in a virtualized contained environment with three VMs. In this example, arp-scan, nmap, and fping are all utilized to perform network host discovery while the host fingerprinting stage primarily focusing on a Metasploitable2 VM.
 
 ## Host Discovery
 
