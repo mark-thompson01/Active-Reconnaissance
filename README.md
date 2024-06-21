@@ -29,15 +29,9 @@ This document contains step-by-step guides for performing active reconnaissance 
 
 ### ARP Scan & Nmap Ping Scan
 
-Perform an arp scan and an nmap ping scan to discover what hosts are connected to the local network. 
+Perform an arp scan, nmap ping scan, and an pfing scan to discover what hosts are connected to the local network. 
 
 ![arp-scan-nmap-sn](images/arp-scan-nmap-sn.png)
-
-
-
-### Fping
-
-Use Fping to discover live hosts
 
 ![fping](images/fping.png)
 
