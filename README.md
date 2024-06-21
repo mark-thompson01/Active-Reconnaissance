@@ -27,15 +27,11 @@ This document contains step-by-step guides for performing active reconnaissance 
 
 ## Host Discovery
 
-### Nmap Host Discovery
+### ARP Scan & Nmap Ping Scan
 
-Perform a ping scan to discover live hosts on the network: 
+Perform an arp scan and an nmap ping scan to discover what hosts are connected to the local network. 
 
-![nmap-sn](nmap-sn.png)
-
-### ARP Scan
-
-Perform an ARP scan to discover hosts on the local network:
+![arp-scan-nmap-sn](images/arp-scan-nmap-sn.png)
 
 
 
