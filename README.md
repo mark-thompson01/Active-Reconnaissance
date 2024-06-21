@@ -56,8 +56,7 @@ Perform a full port scan and service version detction
 
 Perform a SYN scan, service version detection, and UDP scan: 
 
-![SYN-sV-sU](SYN-sV-sU.png)
-
+![SYN](SYN-sV-sU.png)
 
 Perform a port scan for ports 1-10000 and service version detection: 
 
