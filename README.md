@@ -53,7 +53,7 @@ Use Wireshark to perform passive reconnaissance on the active network by capturi
 
 # Perform a SYN scan and service version detection. 
 
-![Port Scanning and Service Detection](images/Port Scanning and Service Detection.png)
+![Port Scan Service Version Detction](images/Port Scanning and Service Detection.png)
 
 
 Perform a full port scan and service version detction
