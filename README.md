@@ -64,9 +64,6 @@ Perform a port scan for ports 1-10000 and service version detection:
 ![p1-10000](images/p1-10000.png)
 
 
-## Nmap Service Version Detection
-
-After identifying open ports, perform service version detction on individual ports to gather more information. 
 
 ## Fingerprinting with Nmap Scripts
 
