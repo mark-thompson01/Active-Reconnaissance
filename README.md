@@ -35,6 +35,8 @@ Perform a ping scan to discover live hosts on the network:
 
 Perform an ARP scan to discover hosts on the local network:
 
+
+
 ### Fping
 
 Use Fping to discover live hosts
@@ -49,7 +51,9 @@ Use Wireshark to perform passive reconnaissance on the active network by capturi
 
 ## Port Scanning and Host Fingerprinting
 
-Perform a SYN scan and service version detection. 
+# Perform a SYN scan and service version detection. 
+
+![Port Scanning and Service Detection](images/Port Scanning and Service Detection.png)
 
 
 Perform a full port scan and service version detction
