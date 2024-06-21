@@ -31,6 +31,8 @@ This document contains step-by-step guides for performing active reconnaissance 
 
 Perform a ping scan to discover live hosts on the network: 
 
+![nmap-sn](nmap-sn.png)
+
 ### ARP Scan
 
 Perform an ARP scan to discover hosts on the local network:
