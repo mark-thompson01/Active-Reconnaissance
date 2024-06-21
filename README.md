@@ -59,7 +59,7 @@ Perform a SYN scan and service version detection.
 
 Perform a full port scan and service version detction
 
-![Full Port Scan](images/Full Port Scan.png)
+![Full Port Scan](images/Full%20Port%20Scan.png)
 
 
 Perform a SYN scan, service version detection, and UDP scan: 
