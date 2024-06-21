@@ -58,6 +58,8 @@ Perform a SYN scan and service version detection.
 
 Perform a full port scan and service version detction
 
+![Full Port Scan](images/Full Port Scan.png)
+
 
 Perform a SYN scan, service version detection, and UDP scan: 
 
