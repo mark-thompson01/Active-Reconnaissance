@@ -84,7 +84,7 @@ Use Nmap scripts to fingerprint services and gather detailed information.
 
 ![nmapsmb-os-discovery](images/nmapsmb-os-discovery.png)
 
-![nmapsmb-security-mode](nmapsmb-security-mode.png)
+![nmapsmb-security-mode](images/nmapsmb-security-mode.png)
 
 
 
