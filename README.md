@@ -14,11 +14,10 @@ This lab outlines performing host discovery, port scanning, service version dete
 - [Port Scanning and Host Fingerprinting](#port-scanning-and-host-fingerprinting)
   - [Nmap Port Scanning](#nmap-port-scanning)
   - [Nmap Service Version Detection](#nmap-service-version-detection)
-  - [Fingerprinting with Nmap Scripts](#fingerprinting-with-nmap-scripts)
   - [Screenshots](#screenshots-port-scanning)
-- [Web Server Enumeration on Port 80](#web-server-enumeration-on-port-80)
+  - [Web Server Enumeration on Port 80](#web-server-enumeration-on-port-80)
   - [Screenshots](#screenshots-web-server-enumeration)
-- [Conclusion](#conclusion)
+- [Fingerprinting with Nmap Scripts](#fingerprinting-with-nmap-scripts)
 
 
 ## Introduction
@@ -27,7 +26,7 @@ This document contains step-by-step guides for performing active reconnaissance 
 
 ## Host Discovery
 
-### ARP-Scan, Nmap Ping Scan, and fping sweep
+### ARP-Scan, Nmap Ping Scan, and fping ping sweep
 
 Perform an arp scan, nmap ping scan, and an pfing scan to discover what hosts are connected to the local network. 
 
