@@ -72,7 +72,7 @@ Use Nmap scripts to fingerprint services and gather detailed information.
 
 ![nmapftp-syst](images/nmapftp-syst.png)
 
-![nmapftpvuln](images/nmapftpvuln)
+![nmapftpvuln](images/nmapftpvuln.png)
 
 
 ## Web Server Enumeration on Port 80
