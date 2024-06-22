@@ -18,7 +18,10 @@ This lab outlines performing host discovery, port scanning, service version dete
   - [Web Server Enumeration on Port 80](#web-server-enumeration-on-port-80)
   - [Screenshots](#screenshots-web-server-enumeration)
 - [Fingerprinting with Nmap Scripts](#fingerprinting-with-nmap-scripts)
-
+  - [FTP Enumeration](#FTP-Enumeration)
+  - [SSH Enumeration](#SSH-Enumeration)
+  - [SMB Enumeration](#SMB-Enumeration)
+  - [Web Server Enumeration](#Web-Server-Enumeration)
 
 ## Introduction
 
