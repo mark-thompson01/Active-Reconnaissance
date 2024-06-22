@@ -42,7 +42,7 @@ Perform an arp scan, nmap ping scan, and an pfing scan to discover what hosts ar
 
 ## Port Scanning and Host Fingerprinting
 
-### SYN scan and service version detection. 
+### SYN scan and service version detection
 
 ![Port Scanning and Service Detection](images/Port%20Scanning%20and%20Service%20Detection.png)
 
@@ -53,7 +53,7 @@ Perform an arp scan, nmap ping scan, and an pfing scan to discover what hosts ar
 ![Full Port Scan](images/Full%20Port%20Scan.png)
 
 
-### SYN scan, service version detection, and UDP scan: 
+### SYN scan, service version detection, and UDP scan
 
 ![SYN-sV-sU](images/SYN-sV-sU.png)
 
@@ -65,7 +65,7 @@ Perform an arp scan, nmap ping scan, and an pfing scan to discover what hosts ar
 
 ## Fingerprinting with Nmap Scripts
 
-Use Nmap scripts to fingerprint services and gather detailed information. 
+Use Nmap scripts to fingerprint services and gather detailed information
 
 ### FTP Enumeration
 
