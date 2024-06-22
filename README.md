@@ -68,6 +68,12 @@ Perform a port scan for ports 1-10000 and service version detection:
 
 Use Nmap scripts to fingerprint services and gather detailed information. 
 
+![nmapftpanon](images/nmapftpanon.png)
+
+![nmapftp-syst](images/nmapftp-syst.png)
+
+![nmapftpvuln](images/nmapftpvuln)
+
 
 ## Web Server Enumeration on Port 80
 
