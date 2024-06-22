@@ -75,6 +75,13 @@ Use Nmap scripts to fingerprint services and gather detailed information.
 ![nmapftpvuln](images/nmapftpvuln.png)
 
 
+![nmapssh-auth-methods](images/nmapssh-auth-methods.png)
+
+![nmapssh-hostkey](images/nmapssh-hostkey.png)
+
+![nmapssh2-enum-algos](images/nmapssh2-enum-algos.png)
+
+
 ## Web Server Enumeration on Port 80
 
 Enumerate the web server on port 80 to gather information about the web application and its components. 
