@@ -92,6 +92,14 @@ Use Nmap scripts to fingerprint services and gather detailed information.
 
 Enumerate the web server on port 80 to gather information about the web application and its components. 
 
+![nmaphttp-title](images/nmaphttp-title)
+
+![nmapsChttp-methods](images/nmapsChttp-methods.png)
+
+![nmaphttp-headers](images/nmaphttp-headers.png)
+
+
+
 
 
 
