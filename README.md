@@ -22,6 +22,9 @@ This lab outlines performing host discovery, port scanning, service version dete
   - [SSH Enumeration](#SSH-Enumeration)
   - [SMB Enumeration](#SMB-Enumeration)
   - [Web Server Enumeration](#Web-Server-Enumeration)
+- [Acknowledgements](#Acknowledgements)
+ 
+  
 
 ## Introduction
 
@@ -100,6 +103,18 @@ Use Nmap scripts to fingerprint services and gather detailed information
 ![nmapsChttp-methods](images/nmapsChttp-methods.png)
 
 ![nmaphttp-headers](images/nmaphttp-headers.png)
+
+
+
+## Acknowledgments
+
+### Metasploitable2
+
+    -Metasploitable2 is a vulnerable virtual machine intended for use as a target for testing security tools and demonstrating common vulnerabilities. 
+
+    -Official download page: https://sourceforge.net/projects/metasploitable/
+
+    -License: BSD License, GNUJ General Public License version 2.0 (GLPv2)
 
 
 
