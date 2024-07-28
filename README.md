@@ -110,11 +110,11 @@ Use Nmap scripts to fingerprint services and gather detailed information
 
 ### Metasploitable2
 
-    -Metasploitable2 is a vulnerable virtual machine intended for use as a target for testing security tools and demonstrating common vulnerabilities. 
+    Metasploitable2 is a vulnerable virtual machine intended for use as a target for testing security tools and demonstrating common vulnerabilities. 
 
-    -Official download page: https://sourceforge.net/projects/metasploitable/
+    Official download page: https://sourceforge.net/projects/metasploitable/
 
-    -License: BSD License, GNUJ General Public License version 2.0 (GLPv2)
+    License: BSD License, GNUJ General Public License version 2.0 (GLPv2)
 
 
 
