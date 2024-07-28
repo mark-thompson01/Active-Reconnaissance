@@ -114,7 +114,7 @@ Use Nmap scripts to fingerprint services and gather detailed information
 
     Official download page: https://sourceforge.net/projects/metasploitable/
 
-    License: BSD License, GNUJ General Public License version 2.0 (GLPv2)
+    License: BSD License, GNU General Public License version 2.0 (GLPv2)
 
 
 
