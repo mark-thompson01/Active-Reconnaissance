@@ -31,9 +31,24 @@ This lab outlines performing host discovery, port scanning, service version dete
 ## 🛠️ Tech Used
 - Oracle VirtualBox
 - Kali Linux
+- arp-scan
+- fping
 - Nmap / NSE - Nmap Scripting Engine
 - Metasploitable2
 
+
+---
+
+
+## 🔁 How to Recreate This Lab
+To recreate this lab environment:
+
+- Download and install Oracle VirtualBox.
+- Download, install, and setup Kali Linux on a VM.
+- Download, install, and setup Metasploitable2 on a VM.
+- Perform some network host scanning with arp-scan, fping, and nmap.
+- Perform some port scanning and host fingerprinting with nmap.
+- Performing some further fingerprinting with nmap scripts. 
 
 ---
 
