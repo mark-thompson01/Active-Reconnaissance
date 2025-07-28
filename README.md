@@ -35,6 +35,13 @@ This lab outlines performing host discovery, port scanning, service version dete
 ---
 
 
+## What I've Learned
+Through this project, I have:
+
+
+---
+
+
 ## 📁 More from Me
 
 Visit my full GitHub Pages portfolio to explore additional projects:
