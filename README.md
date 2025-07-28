@@ -28,6 +28,16 @@ This lab outlines performing host discovery, port scanning, service version dete
 ---
 
 
+## 🛠️ Tech Used
+- Oracle VirtualBox
+- Kali Linux
+- Nmap / NSE - Nmap Scripting Engine
+- Metasploitable2
+
+
+---
+
+
 ## 🖥️ **Live Project Webpage:**  
 👉 [Active-Reconnaissance Lab](https://mark-thompson01.github.io/MTPortfolio/Lab%20Projects/Active%20Reconnaissance/)
 
