@@ -36,7 +36,11 @@ This lab outlines performing host discovery, port scanning, service version dete
 
 
 ## What I've Learned
-Through this project, I have:
+Through this project, I have learned:
+- How to perform host discovery on a given network
+- How to perform port scanning on given network host(s)
+- How to perform host fingerprinting
+- How to retrive information on the protocols and services in use
 
 
 ---
